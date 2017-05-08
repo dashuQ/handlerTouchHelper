@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/DividerItemDecoration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/ItemTouchHelperCallback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/MainRecyclerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/TestModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/itemtouchhelperextension/Extension.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/itemtouchhelperextension/ItemTouchHelperExtension.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/administrator/handlertouchhelper/itemtouchhelperextension/ItemTouchUIUtilImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_autorenew_black_24dp.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_with_single_delete.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/view_list_main_content.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
